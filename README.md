@@ -1,6 +1,7 @@
+This is a repository for the enhancements made to the Anubis IDE by Ahmed Mamdouh (16P6020) for the course CSE427 Software Maintenance and Evolution.
 # Enhancements 
-- Support for Highlighting C# Format 
-- Added a Documentation File in the repository directory
+- Added the support for syntax and color highlighting for the C# programming language.
+- Added a documentation for all the design changes and code modifications made to make this functionality enhancement.
 
 # Anubis IDE
 It's an **open source** IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
